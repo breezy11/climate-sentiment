@@ -1,0 +1,5 @@
+1. run "pip install -r requirements.txt" to install the dependencies
+
+2. run "jupyter notebook" to run the main-notebook.ipynb
+
+3. run "python dashboard" to run the dashboard
